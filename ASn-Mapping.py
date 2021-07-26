@@ -19,7 +19,7 @@ class bcolors:
     lightblue='\033[94m'
     lightcyan='\033[96m'
 
-text = "Cybersecurity_DZ "
+text = "1N1TOne "
 print(pyfiglet.figlet_format(text))
 print(bcolors.green + "ASn-mapping is simple Tool To Map A Large Company Network By Getting Autonomous System  Number , IPs Addresses And Domains To Each IP Address")
 print(bcolors.cyan + "contact us on : \n Website : https://itsecuritydz.wordpress.com/ \n Instagrame : @cybersecurity_dz \n Facebook : https://www.facebook.com/cisco2bit")
