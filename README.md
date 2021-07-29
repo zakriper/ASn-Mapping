@@ -1,6 +1,6 @@
 # ASn-Mapping
 <p>ASn-mapping is simple Tool To Map A Large Company Network By Getting Autonomous System  Number , IPs Addresses And Domains To Each IP Address</p> 
-  <a href="https://github.com/zakriper/ASn-Mapping"><img src="https://itsecuritydz.files.wordpress.com/2021/07/screen.png"></a>
+  <a href="https://github.com/zakriper/ASn-Mapping"><img src="https://in1tone.files.wordpress.com/2021/07/screen.png"></a>
 
 
 <p>How to use :</p> 
